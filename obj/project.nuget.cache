@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNA+jEfqbzA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ezequ\\Documents\\projetos\\MinimalApi\\MinimalApi\\MinimalApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ezequ\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\dapper.fsharp\\4.9.0\\dapper.fsharp.4.9.0.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
